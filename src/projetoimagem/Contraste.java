@@ -18,7 +18,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author Patrick
+ * @author Vitor
  */
 public class Contraste extends javax.swing.JFrame {
 

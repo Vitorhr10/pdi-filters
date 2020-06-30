@@ -7,7 +7,7 @@ package projetoimagem;
 
 /**
  *
- * @author Patrick
+ * @author Vitor
  */
 public class ProjetoImagem {
 
